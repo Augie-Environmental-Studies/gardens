@@ -2,10 +2,10 @@
 # https://github.com/github/gitignore/blob/main/community/Golang/Hugo.gitignore
 
 # Generated files by hugo
-/public/
-/resources/_gen/
-/assets/jsconfig.json
-hugo_stats.json
+src/public/
+src/resources/_gen/
+src/assets/jsconfig.json
+src/hugo_stats.json
 
 # Executable may be added to repository
 hugo.exe
@@ -13,6 +13,13 @@ hugo.darwin
 hugo.linux
 
 # Temporary lock file while building
-/.hugo_build.lock
+src/.hugo_build.lock
 Footer
 
+# Taken from:
+# https://github.com/h-enk/doks/blob/master/.gitignore
+node_modules
+public
+resources
+.netlify
+.hugo_build.lock
