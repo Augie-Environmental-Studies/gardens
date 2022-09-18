@@ -13,7 +13,7 @@
     <img alt="Facebook" src="https://user-images.githubusercontent.com/19341857/190890925-3e2697ac-4e45-458d-a1ee-8ef6c1e38330.svg" width="20">
   </a>
   &nbsp;
-  <a href="https://www.instagram.com/augiesustain/">
+  <a href="https://www.instagram.com/augustana_garden/">
     <img alt="Instagram" src="https://user-images.githubusercontent.com/19341857/190890927-20acd3d3-586b-4abb-bb4f-b0cab21904ac.svg" width="20">
   </a>
   &nbsp;
