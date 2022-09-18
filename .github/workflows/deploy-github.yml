@@ -12,6 +12,9 @@ on:
 
 jobs:
   deploy:
+    defaults:
+      run:
+        working-directory: ./src
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v2
@@ -23,15 +26,12 @@ jobs:
 
       - name: Install dependencies
         run: npm install
-        working-directory: ./src
 
       - name: Check for linting errors
         run: npm test
-        working-directory: ./src
 
       - name: Build production website
         run: npm run build
-        working-directory: ./src
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
