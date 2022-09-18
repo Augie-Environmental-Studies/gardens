@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://augie-environmental-studies.github.io/gardens/sitemap.xml
