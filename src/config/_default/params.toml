@@ -2,8 +2,8 @@
 
 ## Homepage
 title = "Augie Gardens"
-titleSeparator = "-"
-titleAddition = "Augustana University Campus Gardens"
+titleSeparator = ""
+titleAddition = ""
 description = "Promoting sustainability."
 
 ## Documentation
@@ -65,7 +65,7 @@ defaultImage = "default-image.png" # put in `./assets/images/`
 fillImage = "1270x740 Center" # normalize image size
 
 # Footer
-footer = "Powered by <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a> and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
+footer = "Made with ♥ by open-source library <a class=\"text-muted\" href=\"https://gohugo.io/\">Hugo</a> and <a class=\"text-muted\" href=\"https://getdoks.org/\">Doks</a>"
 
 # Feed
 copyRight = "Copyright (c) Augustana University Environmental Studies Program"
