@@ -15,7 +15,6 @@ jobs:
     runs-on: ubuntu-20.04
     defaults:
       run:
-        working-directory: ./src
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v2
@@ -26,15 +25,18 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+        working-directory: ./src
 
       - name: Check for linting errors
         run: npm test
+        working-directory: ./src
 
       - name: Build production website
         run: npm run build
+        working-directory: ./src
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+          publish_dir: ./src/public
