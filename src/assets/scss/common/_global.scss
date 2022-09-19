@@ -84,6 +84,13 @@ a.btn:focus {
   text-decoration: none;
 }
 
+.bg-img {
+  background-image: url("images/background.png");
+  background-size: 100vw;
+  background-repeat: repeat;
+  z-index: -1;
+}
+
 .section {
   padding-top: 5rem;
   padding-bottom: 5rem;
