@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.augie.edu/">
-    <img alt="Logo" src="https://user-images.githubusercontent.com/19341857/190890347-5953f7dd-abe2-49b5-a008-306b4ddfa1ef.png" width="350">
+    <img alt="Logo" src="https://user-images.githubusercontent.com/19341857/190898818-e413ed07-4b0c-45bf-bcae-22513d20e7f2.png" width="350">
   </a>
 </p>
 
