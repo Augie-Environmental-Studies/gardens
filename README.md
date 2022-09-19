@@ -17,7 +17,7 @@
     <img alt="Instagram" src="https://user-images.githubusercontent.com/19341857/190890927-20acd3d3-586b-4abb-bb4f-b0cab21904ac.svg" width="20">
   </a>
   &nbsp;
-  <a href="https://twitter.com/augieenviro">
+  <a href="https://twitter.com/augustanagarden">
     <img alt="Facebook" src="https://user-images.githubusercontent.com/19341857/190890929-b924febf-d6ac-4a58-a12b-c755364a3936.svg" width="20">
   </a>
 </p>
