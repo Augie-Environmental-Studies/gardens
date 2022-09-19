@@ -1,5 +1,5 @@
-baseurl = "https://doks.netlify.app/"
-canonifyURLs = false
+baseurl = "https://augie-environmental-studies.github.io/gardens/"
+canonifyURLs = true
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
