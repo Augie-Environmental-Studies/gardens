@@ -84,13 +84,6 @@ a.btn:focus {
   text-decoration: none;
 }
 
-.bg-img {
-  background-image: url("images/background.png");
-  background-size: 100%;
-  background-repeat: no-repeat;
-  z-index: -1;
-}
-
 .section {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -293,3 +286,13 @@ body {
     opacity: 0;
   }
 }
+
+.bg-img {
+  background-image: url("images/background.png");
+  background-size: 100vmin;
+  background-repeat: no-repeat;
+  background-position: top right;
+  overflow: visible;
+  z-index: -1;
+}
+
