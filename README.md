@@ -41,4 +41,4 @@ the other that heat comes from the furnace.
 > To avoid the first danger, one should plant
 a garden.
 > 
-> (Leopold, 1949, *A Sand County Almanac*)
+> (Aldo Leopold, 1949, *A Sand County Almanac*)
