@@ -1,2 +1,2 @@
 baseurl = "https://augie-environmental-studies.github.io/gardens/"
-canonifyURLs = true
+canonifyURLs = false

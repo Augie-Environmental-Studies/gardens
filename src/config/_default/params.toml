@@ -12,7 +12,7 @@ description = "Promoting sustainability."
 ## Open Graph
 images = ["social-preview.jpg"]
 ogLocale = "en_US"
-domainTLD = "Augie-Environmental-Studies.github.io/gardens"
+domainTLD = "Augie-Environmental-Studies.github.io"
 titleHome = "Augie Gardens"
 
 ## Twitter Cards
@@ -103,7 +103,7 @@ lastMod = true
   kaTex = false
   multilingualMode = false
   docsVersioning = false
-  fullWidth = false
+  fullWidth = true
   navbarSticky = true
   toTopButton = false
   scrollSpy = false # experimental; needs Bootstrap >= 5.2.0-beta1
