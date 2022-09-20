@@ -12,7 +12,7 @@ description = "Promoting sustainability."
 ## Open Graph
 images = ["social-preview.jpg"]
 ogLocale = "en_US"
-domainTLD = "Augie-Environmental-Studies.github.io"
+domainTLD = "Augie-Environmental-Studies.github.io/gardens"
 titleHome = "Augie Gardens"
 
 ## Twitter Cards
@@ -34,7 +34,7 @@ schemaLogoHeight = 512
 schemaImage = "doks.png"
 schemaImageWidth = 1280
 schemaImageHeight = 640
-schemaTwitter = "https://twitter.com/AugieEnviro"
+schemaTwitter = "https://twitter.com/augustanagarden"
 schemaLinkedIn = ""
 schemaGitHub = "https://github.com/Augie-Environmental-Studies/gardens"
 schemaSection = "blog"
