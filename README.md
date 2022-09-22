@@ -158,7 +158,7 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
 nvm install node
 
 # Clone this repository
-cd Downloads
+cd ~/Downloads
 git clone https://github.com/Augie-Environmental-Studies/gardens.git
 
 # Install dependencies
