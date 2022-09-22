@@ -45,7 +45,7 @@
 
 ## Table of Contents
 [1.](#how-to-edit-the-website) How to edit the website<br>
-[2.](#temp) How this website was made
+[2.](#temp) How the website was made
 
 <br>
 
@@ -55,28 +55,55 @@
 <br>
 <br>
 
-# How this website was made
+# How the website was made
 
-She couldn't understand why nobody else could see that the sky is full of cotton candy.
-Flash photography is best used in full sunlight.
-He was so preoccupied with whether or not he could that he failed to stop to consider if he should.
-Sometimes you have to just give up and win by cheating.
-They're playing the piano while flying in the plane.
-The door slammed on the watermelon.
-As the years pass by, we all know owners look more and more like their dogs.
-Smoky the Bear secretly started the fires.
-He didn't understand why the bird wanted to ride the bicycle.
-He created a pig burger out of beef.
-Peanut butter and jelly caused the elderly lady to think about her past.
-I am my aunt's sister's daughter.
-It was a really good Monday for being a Saturday.
-The swirled lollipop had issues with the pop rock candy.
-She saw no irony asking me to change but wanting me to accept her for who she is.
-The gruff old man sat in the back of the bait shop grumbling to himself as he scooped out a handful of worms.
-The golden retriever loved the fireworks each Fourth of July.
-When I was little I had a car door slammed shut on my hand and I still remember it quite vividly.
-The rain pelted the windshield as the darkness engulfed us.
-Instead of a bachelorette party
+We wanted to make our website
+as self-sustainable just like our gardens.
+So, we decided to use open-source libraries called
+[Hugo](https://github.com/gohugoio/hugo) and
+[Doks](https://github.com/h-enk/doks).
+These two libraries create the backbone
+of our website. Then, we use
+[GitHub Pages](https://pages.github.com/)
+to host our website.
+
+We thought about getting a dedicated Virtual Private Server
+and then developing with
+[Express](https://expressjs.com/)
+or using a content management system like
+[WordPress](https://github.com/WordPress/wordpress-develop).
+We, however, decided against these because
+we don't need the extra features
+that come with them.
+
+**How can I run a development server?**<br>
+If you're a non-technical user, you don't need this part, 
+but this will be useful if you'd like to improve 
+the general source code of our website.
+
+```bash
+# Install git
+sudo dnf install -y git
+
+# Install nvm; and then close and reopen the terminal
+# in order for new paths to take effect.
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+
+# Install Node.js
+nvm install node
+
+# Clone this repository
+cd Downloads
+git clone https://github.com/Augie-Environmental-Studies/gardens.git
+
+# Install dependencies
+cd gardens/src
+npm install
+
+# Start a developmental server
+npm run start
+:
+```
 
 <br>
 <br>
