@@ -1,25 +1,13 @@
 {{ define "main" }}
 {{ $bgimage := resources.Get "/images/sunflower.jpg" }} 
-<div class="row justify-content-center" style="background-image: url('{{$bgimage.RelPermalink | absURL }}'); background-repeat: no-repeat; background-size: 100vw; background-position: top left;">
+<div class="row justify-content-center" style="background-image: url('{{$bgimage.RelPermalink | absURL }}'); background-repeat: no-repeat; background-size: 100vw; background-position: center;">
   <div class="col-md-12 col-lg-10 col-xl-8">
     <article>
       <br>
       <br>
       <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
       <h1 class="text-center">{{ i18n "404-title" }}</h1>
       <p class="text-center">{{ i18n "404-text" }}</p>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
       <br>
       <br>
       <br>
