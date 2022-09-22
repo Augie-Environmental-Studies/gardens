@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "prologue"
+    parent: "Prairie Restoration Garden"
 weight: 100
 toc: true
 ---

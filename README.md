@@ -27,9 +27,7 @@
 <p align="center">
   <b>
     Augie Gardens<br>
-    [<a href="https://augie-environmental-studies.github.io/gardens/">Official Website</a>]
-  </b>
-</p>
+    [<a href="https://augie-environmental-studies.github.io/gardens/">Official Website</a>] </b> </p>
 
 <br>
 
@@ -50,6 +48,7 @@
 <br>
 
 # How to edit the website
+
 
 
 <br>
@@ -102,9 +101,21 @@ npm install
 
 # Start a developmental server
 npm run start
-:
 ```
 
 <br>
 <br>
 <br>
+
+<!--
+
+**Create a new section**
+
+```bash
+cd gardens/src
+npm run create docs/SECTIONNAME --kind docs
+```
+
+
+
+-->

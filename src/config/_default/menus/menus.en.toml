@@ -30,7 +30,7 @@
 
 [[main]]
   name = "Documentation"
-  url = "/docs/prologue/introduction/"
+  url = "/docs/about/why/"
 # url = "/docs/1.0/prologue/introduction/"
   weight = 10
 
@@ -47,22 +47,22 @@
 [[main]]
   name = "About"
   weight = 30
-  identifier = "get-started"
-  url = "/docs/prologue/introduction/"
+  identifier = "about"
+  url = "/docs/about/why/"
 
 [[main]]
   name = "Why?"
   weight = 40
-  identifier = "quick-start"
-  url = "/docs/prologue/quick-start/"
-  parent = "get-started"
+  identifier = "why"
+  url = "/docs/about/why/"
+  parent = "about"
 
 [[main]]
   name = "Who are we?"
   weight = 50
   identifier = "tutorial"
-  url = "/docs/prologue/quick-start/"
-  parent = "get-started"
+  url = "/docs/about/who-are-we/"
+  parent = "about"
 
 [[social]]
   name = "GitHub"
