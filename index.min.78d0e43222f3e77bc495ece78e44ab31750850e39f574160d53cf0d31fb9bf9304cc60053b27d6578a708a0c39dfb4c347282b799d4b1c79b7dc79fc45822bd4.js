@@ -6,7 +6,7 @@ Why we did what we did # Bees are amazing! I love bees 🥰
 Why we did what we did # Bees are amazing! I love bees 🥰
 `}),e.add({id:3,href:"/gardens/docs/organic-vegetable-garden/example-project/",title:"Example Project",description:"This is where your project will be🤩 ",content:`What we did # \u0026hellip;
 Why we did what we did # Bees are amazing! I love bees 🥰
-`}),e.add({id:4,href:"/gardens/docs/prairie-restoration-garden/example-project/",title:"Example Project",description:"This is where your project will be🤩 ",content:`What we did # \u0026hellip;
+`}),e.add({id:4,href:"/gardens/docs/prairie-restoration-garden/example-project/",title:"Example Project",description:"This is where your project will be🤩 ",content:`What we did # We did X, Y, and Z.
 Why we did what we did # Bees are amazing! I love bees 🥰
 `}),e.add({id:5,href:"/gardens/docs/the-plot/example-project/",title:"Example Project",description:"This is where your project will be🤩 ",content:`What we did # \u0026hellip;
 Why we did what we did # Bees are amazing! I love bees 🥰
