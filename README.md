@@ -119,7 +119,7 @@
 # How the website was made
 
 We wanted to make our website
-as self-sustainable just like our gardens.
+self-sustainable just like our gardens.
 So, we decided to use open-source libraries called
 [Hugo](https://github.com/gohugoio/hugo) and
 [Doks](https://github.com/h-enk/doks).
