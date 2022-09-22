@@ -63,8 +63,9 @@
   <img alt="Click Edit this file" src="https://user-images.githubusercontent.com/19341857/191704678-64755128-8432-47e6-9934-a7b54b09be75.png" width="500">
 </p>
 
-> 3. Here's where you can make any change you want to the content.
-> If you want, you can find advanced formatting syntax on GitHub's 
+> 3. Here's where we can edit the content.
+> In addition, if you want, you can find advanced 
+> formatting syntax on GitHub's 
 > [MarkDown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 <p align="center">
