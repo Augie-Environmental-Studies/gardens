@@ -134,10 +134,13 @@ or using a content management system like
 We, however, decided against these because
 we don't need the extra features
 that come with them.
+With Hugo, Doks, and GitHub Pages,
+we were able to make our website
+fast and free.
 
 **How can I run a development server?**<br>
 If you're a non-technical user, you don't need this part, 
-but this will be useful if you'd like to improve 
+but this will be useful if you'd like to tinker with
 the general source code of our website.
 
 ```bash
