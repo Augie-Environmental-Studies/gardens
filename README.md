@@ -45,7 +45,7 @@
 
 ## Table of Contents
 [1.](#how-to-edit-the-website) How to edit the website<br>
-[2.](#temp) How the website was made
+[2.](#how-the-website-was-made) How the website was made
 
 <br>
 
