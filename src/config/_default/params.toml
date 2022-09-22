@@ -65,7 +65,7 @@ defaultImage = "sunflower.jpg" # put in `./assets/images/`
 fillImage = "1270x740 Center" # normalize image size
 
 # Footer
-footer = "Made with ♥ by Augie <a class=\"text-muted\" href=\"https://github.com/augie-environmental-studies\">Environmental Studies Program</a>"
+footer = "Made with ♥ by <a class=\"text-muted\" href=\"https://github.com/augie-environmental-studies\">Augie Environmental Studies Program</a>"
 
 # Feed
 copyRight = "Copyright (c) Augustana University Environmental Studies Program"
