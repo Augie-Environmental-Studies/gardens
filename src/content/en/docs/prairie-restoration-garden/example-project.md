@@ -12,7 +12,7 @@ toc: true
 
 ## What we did
 
-...
+We did X, Y, and Z.
 
 ## Why we did what we did
 
