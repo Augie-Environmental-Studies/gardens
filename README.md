@@ -44,10 +44,40 @@
 > (Aldo Leopold, 1949, *A Sand County Almanac*)
 
 ## Table of Contents
-[1.](#sunflower) How to edit the website<br>
+[1.](#how-to-edit-the-website) How to edit the website<br>
 [2.](#temp) How this website was made
 
 <br>
 
+# How to edit the website
 
 
+<br>
+<br>
+
+# How this website was made
+
+She couldn't understand why nobody else could see that the sky is full of cotton candy.
+Flash photography is best used in full sunlight.
+He was so preoccupied with whether or not he could that he failed to stop to consider if he should.
+Sometimes you have to just give up and win by cheating.
+They're playing the piano while flying in the plane.
+The door slammed on the watermelon.
+As the years pass by, we all know owners look more and more like their dogs.
+Smoky the Bear secretly started the fires.
+He didn't understand why the bird wanted to ride the bicycle.
+He created a pig burger out of beef.
+Peanut butter and jelly caused the elderly lady to think about her past.
+I am my aunt's sister's daughter.
+It was a really good Monday for being a Saturday.
+The swirled lollipop had issues with the pop rock candy.
+She saw no irony asking me to change but wanting me to accept her for who she is.
+The gruff old man sat in the back of the bait shop grumbling to himself as he scooped out a handful of worms.
+The golden retriever loved the fireworks each Fourth of July.
+When I was little I had a car door slammed shut on my hand and I still remember it quite vividly.
+The rain pelted the windshield as the darkness engulfed us.
+Instead of a bachelorette party
+
+<br>
+<br>
+<br>
