@@ -1,14 +1,69 @@
-# [[docs]]
-#   name = "About"
-#   identifier = "about"
-# 	weight = 1
-#   url = "/docs/about/"
+###################################################################
+# About the weight:
+#
+#     1: "About" section
+#   2~9: Other future sections we'd like to add
+# 10~89: Garden sections
+#    90: "Vlog" section
+#  100~: Subsections
+#
+#	Note that we reserved the numbers 2~9 in case we'd like to 
+# add new sections above the gardens sections.
+#
+# Also, for subsections' weight, multiply by a 100. For example,
+# Prairie Restoration Garden has a weight of 20. For projects
+# on this garden, the weight range would be 200~299. For instance,
+# First project of the garden would have a weight of 200.
+###################################################################
 
-# [[docs]]
-#   name = "The Plot"
-#   identifier = "the-plot"
-# 	weight = 16
-#   url = "/docs/the-plot/"
+[[docs]]
+  name = "About"
+  identifier = "about"
+	weight = 1
+  url = "/docs/about/"
+
+[[docs]]
+  name = "Prairie Restoration Garden"
+  identifier = "prairie-restoration-garden"
+	weight = 20
+  url = "/docs/prairie-restoration-garden/"
+
+[[docs]]
+  name = "The Beehives"
+  identifier = "the-beehives"
+	weight = 30
+  url = "/docs/the-beehives/"
+
+[[docs]]
+  name = "Campus Orchard"
+  identifier = "campus-orchard"
+	weight = 40
+  url = "/docs/campus-orchard/"
+
+[[docs]]
+  name = "Organic Vegetable Garden"
+  identifier = "organic-vegetable-garden"
+	weight = 50
+  url = "/docs/organic-vegetable-garden/"
+
+[[docs]]
+  name = "Meditative Labryinth"
+  identifier = "meditative-labryinth"
+	weight = 60
+  url = "/docs/meditative-labryinth/"
+
+[[docs]]
+  name = "The Plot"
+  identifier = "the-plot"
+	weight = 70
+  url = "/docs/the-plot/"
+
+[[docs]]
+  name = "Vlog"
+  identifier = "vlog"
+	weight = 90
+  url = "/docs/vlog/"
+
 
 
 
