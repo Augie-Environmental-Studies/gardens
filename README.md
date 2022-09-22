@@ -99,6 +99,8 @@
   <img alt="Describe what kind of changes you made" src="https://user-images.githubusercontent.com/19341857/191704896-c62b9531-2515-443c-bdea-34a9bce6b613.png" width="650">
 </p>
 
+<br>
+
 > 7. Click `Create pull request`. That's all!
 > Maintainers will approve your pull request as soon as possible.
 > Pull requests are usually approved within one week. If, however,
