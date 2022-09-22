@@ -34,11 +34,20 @@
 <br>
 
 > There are two spiritual dangers in not
-owning a farm. One is the danger of supposing
-that breakfast comes from the grocery, and
-the other that heat comes from the furnace.
+> owning a farm. One is the danger of supposing
+> that breakfast comes from the grocery, and
+> the other that heat comes from the furnace.
 >
 > To avoid the first danger, one should plant
-a garden.
+> a garden.
 > 
 > (Aldo Leopold, 1949, *A Sand County Almanac*)
+
+## Table of Contents
+[1.](#sunflower) How to edit the website<br>
+[2.](#temp) How this website was made
+
+<br>
+
+
+
