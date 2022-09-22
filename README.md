@@ -123,8 +123,8 @@ self-sustainable just like our gardens.
 So, we decided to use open-source libraries called
 [Hugo](https://github.com/gohugoio/hugo) and
 [Doks](https://github.com/h-enk/doks).
-These two libraries create the backbone
-of our website. Then, we use
+These two libraries created the backbone
+of our website. Then, we used
 [GitHub Pages](https://pages.github.com/)
 to host our website.
 
