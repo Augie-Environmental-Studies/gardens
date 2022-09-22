@@ -28,10 +28,10 @@ schemaAuthorTwitter = ""
 schemaAuthorLinkedIn = "https://www.linkedin.com/in/soobinrho/"
 schemaAuthorGitHub = "https://github.com/soobinrho"
 schemaLocale = "en-US"
-schemaLogo = "logo-doks.png"
+schemaLogo = "logo-love.png"
 schemaLogoWidth = 512
 schemaLogoHeight = 512
-schemaImage = "doks.png"
+schemaImage = "social-preview.jpg"
 schemaImageWidth = 1280
 schemaImageHeight = 640
 schemaTwitter = "https://twitter.com/augustanagarden"
@@ -84,7 +84,7 @@ docsRepo = "https://github.com/Augie-Environmental-Studies/gardens"
 docsRepoBranch = "main"
 docsRepoSubPath = "src"
 editPage = true
-lastMod = true
+lastMod = false
 
 [sections]
   sectionNav = ["docs", "guides"]

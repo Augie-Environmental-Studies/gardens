@@ -14,12 +14,18 @@
 # Prairie Restoration Garden has a weight of 20. For projects
 # on this garden, the weight range would be 200~299. For instance,
 # First project of the garden would have a weight of 200.
+#
+# By the way, is there any reason why we are doing it this way?
+# Is this a rule? No, this is not a rule. This is just
+# an arbitrary custom that we came up with for convinience.
+# This means that you can try to change the system if you need to.
 ###################################################################
 
 [[docs]]
   name = "About"
   identifier = "about"
 	weight = 1
+	post = "break"
   url = "/docs/about/"
 
 [[docs]]
@@ -56,6 +62,7 @@
   name = "The Plot"
   identifier = "the-plot"
 	weight = 70
+	post = "break"
   url = "/docs/the-plot/"
 
 [[docs]]
