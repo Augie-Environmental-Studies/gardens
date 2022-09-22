@@ -43,10 +43,6 @@
 > 
 > (Aldo Leopold, 1949, *A Sand County Almanac*)
 
-## Table of Contents
-[1.](#how-to-edit-the-website) How to edit the website<br>
-[2.](#how-the-website-was-made) How the website was made
-
 <br>
 
 # How to edit the website
@@ -57,11 +53,15 @@
   <img alt="Click Edit page on GitHub" src="https://user-images.githubusercontent.com/19341857/191703710-12cd6e9b-220c-40b8-83fa-21ae045de26a.png" width="500">
 </p>
 
-> 2. Click `Edit this file`
+<br>
+
+> 2. Click `Edit this file` button.
 
 <p align="center">
   <img alt="Click Edit this file" src="https://user-images.githubusercontent.com/19341857/191704678-64755128-8432-47e6-9934-a7b54b09be75.png" width="500">
 </p>
+
+<br>
 
 > 3. Here's where we can edit the content.
 > In addition, if you want, you can find advanced 
@@ -72,19 +72,25 @@
   <img alt="Make changes you want" src="https://user-images.githubusercontent.com/19341857/191704716-836443e2-30c5-4fcb-b00f-5baa3a268230.png" width="700">
 </p>
 
-> 4. Click `Propose changes`
+<br>
+
+> 4. Click `Propose changes`.
   
 <p align="center">
   <img alt="Click Propose changes" src="https://user-images.githubusercontent.com/19341857/191704767-a716f922-b9fd-4352-ab8a-81cd83638b31.png" width="500">
 </p>
   
-> 5. Click `Create pull request`
+<br>
+
+> 5. Click `Create pull request`.
   
 <p align="center">
   <img alt="Click Create pull request" src="https://user-images.githubusercontent.com/19341857/191704844-21c7492f-7457-4943-b291-368ca25632c8.png" width="500">
 </p>
 
-> 6. Briefly write what kind of changes you made.
+<br>
+
+> 6. Briefly describe what kind of changes you made.
 > Think of it as a summary. A good summary allows maintainers to
 > easily understand what kind of changes you made.
 > This will speed up the process of getting your pull request approved.
@@ -97,7 +103,8 @@
 > Maintainers will approve your pull request as soon as possible.
 > Pull requests are usually approved within one week. If, however,
 > there's no feedback for too long, then
-> you can reach out to srho17@ole.augie.edu asking to review the pull request.
+> you can reach out to srho17@ole.augie.edu
+
 
 <p align="center">
   <img alt="Finally, click Create pull requet" src="https://user-images.githubusercontent.com/19341857/191704937-b6a94636-18e9-4dbb-b9bc-292a38462a6c.png" width="500">
