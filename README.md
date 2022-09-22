@@ -132,11 +132,12 @@ and then developing with
 or using a content management system like
 [WordPress](https://github.com/WordPress/wordpress-develop).
 We, however, decided against these because
-we don't need the extra features
+we didn't need the extra features
 that come with them.
-With Hugo, Doks, and GitHub Pages,
-we were able to make our website
-fast and free.
+With Hugo and Doks, we were able to make our website
+as fast as we needed; plus, GitHub Pages
+allows you to host a static website
+without any server cost.
 
 **How can I run a development server?**<br>
 If you're a non-technical user, you don't need this part, 
