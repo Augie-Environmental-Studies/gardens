@@ -1,14 +1,18 @@
-[[docs]]
-  name = "About"
-  identifier = "about"
-	weight = 1
-  url = "/docs/about/"
+# [[docs]]
+#   name = "About"
+#   identifier = "about"
+# 	weight = 1
+#   url = "/docs/about/"
 
-[[docs]]
-  name = "The Plot"
-  identifier = "the-plot"
-	weight = 16
-  url = "/docs/the-plot/"
+# [[docs]]
+#   name = "The Plot"
+#   identifier = "the-plot"
+# 	weight = 16
+#   url = "/docs/the-plot/"
+
+
+
+
 
 # [[docs]]
 #   name = "Prologue"
