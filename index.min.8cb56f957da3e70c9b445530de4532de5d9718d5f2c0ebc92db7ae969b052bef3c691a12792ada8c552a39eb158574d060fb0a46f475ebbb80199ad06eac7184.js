@@ -10,8 +10,7 @@ Why we did what we did # Bees are amazing! I love bees 🥰
 Why we did what we did # Bees are amazing! I love bees 🥰
 `}),e.add({id:14,href:"/gardens/docs/organic-vegetable-garden/example-project/",title:"Example Project",description:"This is where your project will be🤩 ",content:`What we did # \u0026hellip;
 Why we did what we did # Bees are amazing! I love bees 🥰
-`}),e.add({id:15,href:"/gardens/docs/meditative-labryinth/example-project/",title:"Example Project",description:"This is where your project will be🤩 ",content:`What we did # \u0026hellip;
-Why we did what we did # Bees are amazing! I love bees 🥰
+`}),e.add({id:15,href:"/gardens/docs/meditative-labryinth/example-project/",title:"Example Project",description:"This is where your project will be🤩 ",content:`To Do List # Add the following information Gazebo also has an outlet (does it work? Have not tested it but we should, if it does then they should advertise that in the garden information website because that seems like it would make people more likely to sit there if they could charge a computer or phone while they work outside)
 `}),e.add({id:16,href:"/gardens/docs/the-plot/example-project/",title:"Example Project",description:"This is where your project will be🤩 ",content:`What we did # \u0026hellip;
 Why we did what we did # Bees are amazing! I love bees 🥰
 `}),e.add({id:17,href:"/gardens/docs/vlog/example-vlog/",title:"Example Vlog",description:`[First uploaded into YouTube, and then embedded here]
