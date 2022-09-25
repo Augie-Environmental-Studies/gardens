@@ -105,7 +105,7 @@
 > Maintainers will approve your pull request as soon as possible.
 > Pull requests are usually approved within one week. If, however,
 > there's no feedback for too long, then
-> you can reach out to srho17@ole.augie.edu
+> you can reach out to soobinrho@gmail.com
 
 
 <p align="center">
