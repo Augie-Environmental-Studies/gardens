@@ -1,3 +1,10 @@
+<!--
+
+With permission, use information here for the homepage:
+https://storymaps.arcgis.com/stories/dc70ef90a8b84bb2bc50444083880ab7
+
+-->
+
 <br>
 
 <p align="center">
@@ -11,7 +18,7 @@
 <p align="center">
   <a href="https://www.instagram.com/augustana_garden/">
     <img alt="Instagram" src="https://user-images.githubusercontent.com/19341857/191081372-bc567def-d536-4daa-9243-c02362f96f3d.svg">
-  </a>  
+  </a>
   &nbsp;
   <a href="https://www.facebook.com/augiesustain/">
     <img alt="Facebook" src="https://user-images.githubusercontent.com/19341857/191081605-ee573b37-610a-432e-8fac-a0759082ffba.svg">
@@ -27,8 +34,8 @@
 <p align="center">
   <b>
     Augie Gardens<br>
-    [<a href="https://augie-environmental-studies.github.io/gardens/">Official Website</a>] 
-  </b> 
+    [<a href="https://augie-environmental-studies.github.io/gardens/">Official Website</a>]
+  </b>
 </p>
 
 <br>
@@ -40,7 +47,7 @@
 >
 > To avoid the first danger, one should plant
 > a garden.
-> 
+>
 > (Aldo Leopold, 1949, *A Sand County Almanac*)
 
 <br>
@@ -85,8 +92,8 @@ emailing us would be easier than this method.
 <br>
 
 > 3. Here's where we can edit the content.
-> In addition, if you want, you can find advanced 
-> formatting syntax on GitHub's 
+> In addition, if you want, you can find advanced
+> formatting syntax on GitHub's
 > [MarkDown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 <p align="center">
@@ -96,15 +103,15 @@ emailing us would be easier than this method.
 <br>
 
 > 4. Click `Propose changes`.
-  
+
 <p align="center">
   <img alt="Click Propose changes" src="https://user-images.githubusercontent.com/19341857/191704767-a716f922-b9fd-4352-ab8a-81cd83638b31.png" width="500">
 </p>
-  
+
 <br>
 
 > 5. Click `Create pull request`.
-  
+
 <p align="center">
   <img alt="Click Create pull request" src="https://user-images.githubusercontent.com/19341857/191704844-21c7492f-7457-4943-b291-368ca25632c8.png" width="500">
 </p>
@@ -115,7 +122,7 @@ emailing us would be easier than this method.
 > Think of it as a summary. A good summary allows maintainers to
 > easily understand what kind of changes you made.
 > This will speed up the process of getting your pull request approved.
-  
+
 <p align="center">
   <img alt="Describe what kind of changes you made" src="https://user-images.githubusercontent.com/19341857/191704896-c62b9531-2515-443c-bdea-34a9bce6b613.png" width="650">
 </p>
@@ -131,8 +138,8 @@ emailing us would be easier than this method.
 
 <p align="center">
   <img alt="Finally, click Create pull requet" src="https://user-images.githubusercontent.com/19341857/191704937-b6a94636-18e9-4dbb-b9bc-292a38462a6c.png" width="500">
-</p>  
-  
+</p>
+
 
 <br>
 <br>
@@ -163,7 +170,7 @@ allows you to host a static website
 without any server cost.
 
 **How can I run a development server?**<br>
-If you're a non-technical user, you don't need this part, 
+If you're a non-technical user, you don't need this part,
 but this will be useful if you'd like to tinker with
 the general source code of our website.
 
