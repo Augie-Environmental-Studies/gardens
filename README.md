@@ -4,7 +4,6 @@ With permission, use information here for the homepage:
 https://storymaps.arcgis.com/stories/dc70ef90a8b84bb2bc50444083880ab7
 
 -->
-
 <br>
 
 <p align="center">
