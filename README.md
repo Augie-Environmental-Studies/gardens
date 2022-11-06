@@ -157,8 +157,7 @@ This setup requires minimum maintenance.
 The only maintenance it needs is to update the contents.
 Also, since we use
 [GitHub Pages](https://pages.github.com/)
-to host our website, we don't have to spend any money
-on server hosting.
+to host our website, server hosting doesn't cost any money.
 
 **How can I run a development server?**<br>
 
