@@ -58,22 +58,21 @@ you can either (a) edit the website's source code yourself
 or (b) tell us about what kind of changes you'd like to see
 by emailing soobinrho@gmail.com
 
-If this is your first time on source-control
-websites like GitHub, we recommend you
-to just email us.
+If this is your first time on GitHub,
+we recommend you to send an email to us
+instead of editing the source code.
 In the email, please include as much detail
-as possible -- e.g. exactly which
-page and which lines to modify, add,
-or delete.
+as possible -- e.g. exactly which line
+on which page to modify, add, or delete.
 
 <br>
 
 ### How to edit the website's source code
 
-If you already know how to use GitHub
-or if you'd like to learn about how to use
-GitHub, read this section. Otherwise,
-emailing us would be easier than this method.
+Read this section if you already know how to
+use GitHub or if you'd like to learn how to use
+GitHub. Otherwise, just sending an email to us
+would be easier for you.
 
 > 1. Every project page has `Edit page on GitHub` button at the bottom.
 
@@ -146,33 +145,22 @@ emailing us would be easier than this method.
 
 # How the website was made
 
-We wanted to make our website
-self-sustainable just like our gardens.
+We wanted to make our website as
+self-sustainable as possible.
 So, we decided to use open-source libraries called
 [Hugo](https://github.com/gohugoio/hugo) and
 [Doks](https://github.com/h-enk/doks).
-These two libraries created the backbone
-of our website. Then, we used
-[GitHub Pages](https://pages.github.com/)
-to host our website.
+These two libraries are the backbone
+of our website.
 
-We thought about getting a dedicated Virtual Private Server
-and then developing with
-[Express](https://expressjs.com/)
-or using a content management system like
-[WordPress](https://github.com/WordPress/wordpress-develop).
-We, however, decided against these because
-we didn't need the extra features
-that come with them.
-With Hugo and Doks, we were able to make our website
-as fast as we needed; plus, GitHub Pages
-allows you to host a static website
-without any server cost.
+This setup requires minimum maintenance.
+The only maintenance it needs is to update the contents.
+Also, since we use
+[GitHub Pages](https://pages.github.com/)
+to host our website, we don't have to spend any money
+on server hosting.
 
 **How can I run a development server?**<br>
-If you're a non-technical user, you don't need this part,
-but this will be useful if you'd like to tinker with
-the general source code of our website.
 
 ```bash
 # Install git
