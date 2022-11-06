@@ -53,14 +53,14 @@ https://storymaps.arcgis.com/stories/dc70ef90a8b84bb2bc50444083880ab7
 
 # How to edit the website
 
-There are are two ways of editing the contents:
-(a) emailing soobinrho@gmail.com or (b)
-editing the website's source code.
+There are two ways of editing the contents:
+you can either (a) edit the website's source code
+or (b) email soobinrho@gmail.com
 
 If this is your first time on source-control
-websites such as GitHub, we recommed you
-to edit the contents just by emailing us.
-In the email, include as much detail
+websites like GitHub, we recommend you
+to just email us.
+In the email, please include as much detail
 as possible -- e.g. exactly which
 page and which lines to modify, add,
 or delete.
