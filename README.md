@@ -65,8 +65,6 @@ In the email, please include as much detail
 as possible -- e.g. exactly which line
 on which page to modify, add, or delete.
 
-<br>
-
 ### How to edit the website's source code
 
 Read this section if you already know how to
