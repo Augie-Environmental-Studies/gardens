@@ -147,7 +147,7 @@ So, we decided to use open-source libraries called
 [Doks](https://github.com/h-enk/doks).
 These two libraries are the backbone
 of our website, requiring minimal maintenance.
-The only maintenance required is when we get to
+The only maintenance required is whenever we get to
 update our contents. Also, since we use
 [GitHub Pages](https://pages.github.com/)
 to host our website, hosting our website
