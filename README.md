@@ -57,19 +57,17 @@ There are two ways of editing the contents:
 you can either (a) edit the website's source code
 or (b) edit just by emailing soobinrho@gmail.com
 
-If this is your first time on GitHub,
-we recommend you to send an email to us
-instead of editing the source code.
-In the email, please include as much detail
-as possible -- e.g. exactly which line
-on which page to modify, add, or delete.
+If you'd like to edit by emailing us,
+please include as much detail
+as possible -- e.g. exactly which line and which page
+to modify, add, or delete.
 
 ### How to edit the website's source code
 
 Read this section if you already know how to
 use GitHub or if you'd like to learn how to use
-GitHub. Otherwise, just sending an email to us
-would be easier for you.
+GitHub. Otherwise, just emailing us
+would be more convinient for you.
 
 > 1. Every project page has `Edit page on GitHub` button at the bottom.
 
