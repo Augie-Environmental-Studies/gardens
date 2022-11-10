@@ -163,6 +163,8 @@ npm run start
 ```
 
 <br>
+<br>
+<br>
 
 > ***How this website was made***<br>
 > We wanted to make our website as
