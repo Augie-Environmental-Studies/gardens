@@ -138,23 +138,7 @@ would be more convinient for you.
 <br>
 <br>
 
-# How the website was made
-
-We wanted to make our website as
-self-sustainable as possible.
-So, we decided to use open-source libraries called
-[Hugo](https://github.com/gohugoio/hugo) and
-[Doks](https://github.com/h-enk/doks).
-These two libraries are the backbone
-of our website, requiring minimal maintenance.
-The only maintenance required is whenever we get to
-update our contents. Also, since we use
-[GitHub Pages](https://pages.github.com/)
-to host our website, hosting our website
-doesn't cost us any money.
-
-**How to a development server**<br>
-
+# How to run a development server
 ```bash
 # Install git
 sudo dnf install -y git
@@ -177,6 +161,22 @@ npm install
 # Start a developmental server
 npm run start
 ```
+
+<br>
+
+> ***How this website was made***<br>
+> We wanted to make our website as
+> self-sustainable as possible.
+> So, we decided to use open-source libraries called
+> [Hugo](https://github.com/gohugoio/hugo) and
+> [Doks](https://github.com/h-enk/doks).
+> These two libraries are the backbone
+> of our website, requiring minimal maintenance.
+> The only maintenance required is whenever we get to
+> update our contents. Also, since we use
+> [GitHub Pages](https://pages.github.com/)
+> to host our website, hosting our website
+> doesn't cost us any money.
 
 <br>
 <br>
