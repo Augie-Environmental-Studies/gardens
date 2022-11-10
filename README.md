@@ -146,15 +146,14 @@ So, we decided to use open-source libraries called
 [Hugo](https://github.com/gohugoio/hugo) and
 [Doks](https://github.com/h-enk/doks).
 These two libraries are the backbone
-of our website.
-
-This setup requires minimum maintenance.
-The only maintenance it needs is to update the contents.
-Also, since we use
+of our website, requiring minimal maintenance.
+The only maintenance required is when we get to
+update our contents. Also, since we use
 [GitHub Pages](https://pages.github.com/)
-to host our website, server hosting doesn't cost any money.
+to host our website, hosting our website
+doesn't cost us any money.
 
-**How can I run a development server?**<br>
+**How to a development server**<br>
 
 ```bash
 # Install git
