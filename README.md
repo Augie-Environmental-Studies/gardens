@@ -126,8 +126,8 @@ would be more convinient for you.
 > 7. Click `Create pull request`. That's all!
 > Maintainers will approve your pull request as soon as possible.
 > Pull requests are usually approved within one week. If, however,
-> there's no feedback for too long, then
-> you can reach out to soobinrho@gmail.com
+> there's no feedback for too long, please
+> reach out to soobinrho@gmail.com
 
 
 <p align="center">
