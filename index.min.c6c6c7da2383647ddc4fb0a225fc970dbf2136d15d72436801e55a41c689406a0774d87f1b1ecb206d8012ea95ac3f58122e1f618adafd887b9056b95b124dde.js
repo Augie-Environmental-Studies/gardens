@@ -15,7 +15,7 @@ Why we did what we did # Bees are amazing! I love bees 🥰
 `}),e.add({id:15,href:"/gardens/docs/campus-orchard/garden-description/",title:"Garden Descriptoin",description:"About # Location, types of plants we have, and more.",content:`About # Location, types of plants we have, and more.
 `}),e.add({id:16,href:"/gardens/docs/campus-orchard/example-project/",title:"Example Project",description:"This is where your project will be🤩 ",content:`What we did # \u0026hellip;
 Why we did what we did # Bees are amazing! I love bees 🥰
-`}),e.add({id:17,href:"/gardens/docs/organic-vegetable-garden/garden-description/",title:"Garden Descriptoin",description:"About # Location, types of plants we have, and more.",content:`About # Location, types of plants we have, and more.
+`}),e.add({id:17,href:"/gardens/docs/organic-vegetable-garden/garden-description/",title:"Garden Description",description:"About # Location, types of plants we have, and more.",content:`About # Location, types of plants we have, and more.
 `}),e.add({id:18,href:"/gardens/docs/organic-vegetable-garden/example-project/",title:"Example Project",description:"This is where your project will be🤩 ",content:`What we did # \u0026hellip;
 Why we did what we did # Bees are amazing! I love bees 🥰
 `}),e.add({id:19,href:"/gardens/docs/meditative-labryinth/garden-description/",title:"Garden Descriptoin",description:"About # Location, types of plants we have, and more.",content:`About # Location, types of plants we have, and more.
