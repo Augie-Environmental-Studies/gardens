@@ -3,6 +3,11 @@
 With permission, use information here for the homepage:
 https://storymaps.arcgis.com/stories/dc70ef90a8b84bb2bc50444083880ab7
 
+Also from https://www.augie.edu/resources/sustainability/augustana-garden
+A group of Augustana University students are working together to tackle food insecurity and promote diversity on campus and in Sioux Falls. The Augustana Garden, located on West 28th Street, is a community food collaborative working towards becoming a food redistribution center. The garden donates produce to various minority owned and sustainable restaurants located in Sioux Falls.
+
+The goal is to create a community of like minded individuals and knit together a strong system of food production and distribution while building relationships on campus and throughout Sioux Falls.
+
 -->
 <br>
 
