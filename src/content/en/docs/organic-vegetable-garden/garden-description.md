@@ -1,5 +1,5 @@
 ---
-title: "Garden Descriptoin"
+title: "Garden Description"
 description: ""
 lead: ""
 date: 2022-10-08
