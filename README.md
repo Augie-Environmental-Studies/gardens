@@ -60,12 +60,12 @@ The goal is to create a community of like minded individuals and knit together a
 
 There are two ways of editing the contents:
 you can either (a) edit the website's source code
-or (b) edit just by emailing soobinrho@gmail.com
+or (b) email us what to edit soobinrho@gmail.com
 
-If you'd like to edit by emailing us,
+If you're emailing us,
 please include as much detail
-as possible -- e.g. exactly which line and which page
-to modify, add, or delete.
+as possible: exactly which line and which page
+you'd like us to change, add, or delete.
 
 ### How to edit the website's source code
 
